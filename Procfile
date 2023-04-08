@@ -1,2 +1,3 @@
-worker: python update.py
-worker: python run.py
+//Procfile
+
+worker: node index.js
