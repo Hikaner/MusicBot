@@ -1,3 +1,3 @@
 //Procfile
 
-worker: node index.js
+worker: python update.py
